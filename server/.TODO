@@ -13,6 +13,7 @@
       
 ✔ Login Validation ( using Validator / is-Empty ) @done(21-04-29 14:17)
 ✔ Register Validation ( using Validator / is-Empty ) @done(21-04-29 14:29)
+✔ Passport Config @done(21-04-29 14:47)
 ☐ Auth Controllers ( DEPENED ON USER ROLE )
 ☐ News Controllers ( CRUD )
 ☐ Reclamations Controllers ( CRUD )

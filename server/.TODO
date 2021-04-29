@@ -1,0 +1,17 @@
+## ETAP SERVER : 
+
+✔ Setup Express, initial App @done(21-04-29 01:51)
+☐ Setup MongoDB 
+
+   # Database Schemas : 
+
+☐ Building User Schema 
+☐ Building reclamations Schema 
+☐ Building news Schema 
+
+   # Controllers ( APIs ) : 
+
+☐ Auth Controllers ( DEPENED ON USER ROLE )
+☐ News Controllers ( CRUD )
+☐ Reclamations Controllers ( CRUD )
+☐ Data coming from Company API ( READ ONLY )

@@ -8,7 +8,7 @@
 ✔ Building User Schema @done(21-04-29 02:44)
 ✔ Building reclamations Schema @done(21-04-29 02:49)
 ✔ Building news Schema @done(21-04-29 02:53)
-
+✔ Building conge Schema @done(21-04-29 13:43)
    # Controllers ( APIs ) : 
 
 ☐ Auth Controllers ( DEPENED ON USER ROLE )

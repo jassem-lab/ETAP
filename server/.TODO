@@ -10,7 +10,9 @@
 ✔ Building news Schema @done(21-04-29 02:53)
 ✔ Building conge Schema @done(21-04-29 13:43)
    # Controllers ( APIs ) : 
-
+      
+✔ Login Validation ( using Validator / is-Empty ) @done(21-04-29 14:17)
+☐ Register Validation
 ☐ Auth Controllers ( DEPENED ON USER ROLE )
 ☐ News Controllers ( CRUD )
 ☐ Reclamations Controllers ( CRUD )
